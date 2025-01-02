@@ -68,6 +68,7 @@ yarn dev
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Environment Variables Setup
+```bash
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=''
 CLERK_SECRET_KEY='
 NEXT_PUBLIC_CLERK_SIGN_IN_URL="/sign-in"
@@ -76,6 +77,7 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL="/sign-up"
 DATABASE_URL='
 
 UPLOADTHING_TOKEN=''
+```
 
 ---
 
