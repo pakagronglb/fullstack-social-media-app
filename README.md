@@ -34,7 +34,7 @@ This project is a modern social media application built following the comprehens
 
 ## 🎓 Credits
 
-This project was built following the excellent tutorial by [JavaScript Mastery](https://www.youtube.com/watch?v=vUYopHWOURg).
+This project was built following the excellent tutorial by [As A Programmer](https://www.youtube.com/watch?v=vUYopHWOURg).
 
 ## 🚀 Getting Started
 
